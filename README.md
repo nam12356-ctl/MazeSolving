@@ -32,7 +32,7 @@ This project involves building a wall-following robot using ultrasonic sensors a
 
 1. Download and install **Arduino IDE** if you haven't already.
 2. Connect the Arduino board to your computer and select the correct board and port in Arduino IDE.
-3. Open the `wall_following.ino` file in the Arduino IDE.
+3. Open the `MazeSolving` file in the Arduino IDE.
 4. Upload the code to the Arduino board.
 5. Power on the robot and place it on the ground to start testing.
 
